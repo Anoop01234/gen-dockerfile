@@ -79,6 +79,6 @@ GitHub Registry :- [Click Here](https://github.com/DFTECHSDEVCENTER/gen-dockerfi
 
 Docs and References :- [Click Here](https://github.com/DFTECHSDEVCENTER/gen-dockerfile/wiki)
 
-Github Repositary :- [Click Here](https://github.com/DFTECHSDEVCENTER/gen-dockerfile/)
+Github Repository :- [Click Here](https://github.com/DFTECHSDEVCENTER/gen-dockerfile/)
 
 ### End
